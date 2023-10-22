@@ -1,4 +1,4 @@
-![logo](https://github.com/viveksavaj/viveksavaj/blob/main/baner.jpg)
+![logo]([https://github.com/viveksavaj/viveksavaj/blob/main/baner.jpg](https://github.com/viveksavaj/viveksavaj/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png))
 <h1 align="center">Hi 👋, I'm Vivek Savaj</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
